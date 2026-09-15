@@ -1,0 +1,81 @@
+[
+  {
+    "file": "minecraft-cherry.jpg",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "source": "https://www.complementary.dev/shaders/",
+    "image_url": "https://www.complementary.dev/assets/img/newScreenshots/unbound3_cherryRainbow.jpg",
+    "description": "Genuine Minecraft cherry grove with Unbound shaders and rainbow; recommended purple aesthetic landscape.",
+    "reuse": "Original author gallery; no explicit screenshot reuse grant located. Shader license allows content creation but does not explicitly license this existing gallery image. Credit Complementary Development if used."
+  },
+  {
+    "file": "minecraft-city.jpg",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "source": "https://www.complementary.dev/shaders/",
+    "image_url": "https://www.complementary.dev/assets/img/newScreenshots/unbound2_vertoakCloud.jpg",
+    "description": "Genuine Minecraft Vertoak city build screenshot with Unbound shaders, clouds and balloon.",
+    "reuse": "Original author gallery; no explicit screenshot reuse grant located. Shader license allows content creation but does not explicitly license this existing gallery image. Credit Complementary Development if used."
+  },
+  {
+    "file": "written_book.png",
+    "dimensions": [
+      16,
+      16
+    ],
+    "source": "https://github.com/InventivetalentDev/minecraft-assets/tree/1.21.4/assets/minecraft/textures/item",
+    "image_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.4/assets/minecraft/textures/item/written_book.png",
+    "description": "Genuine Minecraft item texture mirrored by InventivetalentDev. Transparent palette PNG, render image-rendering:pixelated.",
+    "reuse": "Mojang game asset copyright; repository mirror does not convey independent artwork license. Subject to Minecraft Usage Guidelines."
+  },
+  {
+    "file": "emerald.png",
+    "dimensions": [
+      16,
+      16
+    ],
+    "source": "https://github.com/InventivetalentDev/minecraft-assets/tree/1.21.4/assets/minecraft/textures/item",
+    "image_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.4/assets/minecraft/textures/item/emerald.png",
+    "description": "Genuine Minecraft item texture mirrored by InventivetalentDev. Transparent palette PNG, render image-rendering:pixelated.",
+    "reuse": "Mojang game asset copyright; repository mirror does not convey independent artwork license. Subject to Minecraft Usage Guidelines."
+  },
+  {
+    "file": "timeline-flowers.png",
+    "description": "Original ivory/violet floral artwork generated for this site, explicitly restored at the user’s request."
+  },
+  {
+    "file": "bamboo-planks.png",
+    "dimensions": [
+      16,
+      16
+    ],
+    "source": "https://github.com/InventivetalentDev/minecraft-assets/tree/1.21.4/assets/minecraft/textures/block",
+    "image_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.21.4/assets/minecraft/textures/block/bamboo_planks.png",
+    "description": "Original Minecraft bamboo planks texture; darkened only through CSS presentation.",
+    "reuse": "Mojang/Microsoft game asset; Minecraft Usage Guidelines apply."
+  },
+  {
+    "file": "review-chelo.jpg",
+    "source": "User-supplied image for the attributed testimonial",
+    "description": "Chelo; original artwork preserved, outer corners clipped by CSS"
+  },
+  {
+    "file": "review-lanoche22.png",
+    "source": "User-supplied image for the attributed testimonial",
+    "description": "lanoche22"
+  },
+  {
+    "file": "review-patrick.png",
+    "source": "User-supplied image for the attributed testimonial",
+    "description": "Patrick"
+  },
+  {
+    "file": "review-diff.png",
+    "source": "User-supplied image for the attributed testimonial",
+    "description": "Diff"
+  }
+]

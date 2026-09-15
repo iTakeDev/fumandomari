@@ -1,0 +1,23 @@
+{
+  "BunderCraft": {
+    "file": "bundercraft-medal.png",
+    "source": "https://medal.tv/games/minecraft/servers/40LB2M6rBL1Ytm/bundercraft-network",
+    "image": "https://cdn.medal.tv/assets/img/minecraft-servers/icons/eTIg9H9wchJKj1QC3VvAtWnXO-I.png",
+    "notes": "Downloaded and visually verified: BUNDERCRAFT NETWORK wordmark with Minecraft characters. Low resolution 64x64. Current listing reports boltmc.lat. No explicit reuse license found."
+  },
+  "EskMC": {
+    "file": "eskmc-logo.png",
+    "source": "User-supplied IMG_0581.png",
+    "notes": "ESKMC NETWORK logo supplied by the user for this portfolio."
+  },
+  "Lunarbox": {
+    "file": "lunarbox-logo.png",
+    "source": "User-supplied C3870E12-5F12-424E-BBC0-E9EFEF974703.png",
+    "notes": "Background removed with the image editing tool. Transparent PNG prepared for this code-only version."
+  },
+  "Nightbox": {
+    "file": "nightbox-logo.png",
+    "source": "User-supplied FD266F6B-E601-4A8B-B65D-D68D45CAEADE.png",
+    "notes": "Background removed with the image editing tool. Transparent PNG prepared for this code-only version."
+  }
+}
