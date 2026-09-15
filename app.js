@@ -1,5 +1,5 @@
 /* Personal details can be completed here without changing the page layout. */
-const SITE = Object.freeze({ name: 'FumandoMari', discordUserId: '1139699831128985650', email: '' });
+const SITE = Object.freeze({ name: 'FumandoMari', discordUserId: '1180867529699242044', email: '' });
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
 const icon = (name) => `<svg aria-hidden="true"><use href="#i-${name}"/></svg>`;
